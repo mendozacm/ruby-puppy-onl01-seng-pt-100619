@@ -23,7 +23,7 @@ class Dog
   end
   
   def Dog.print_all
-  dog.print
+  Dog.print
   end
   
   def save
